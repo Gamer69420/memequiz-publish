@@ -1,0 +1,47 @@
+body {
+   background-image: url("media/yallaintready.gif");
+    margin-left: 20px;  
+    margin-bottom: 150px;
+}
+  
+  h1 {
+    color: navy;
+    text-align: center;
+  }
+
+  h2, p, ul{
+     color: red; 
+     text-decoration: underline;
+      
+  }
+
+  h1, h2, p, ul, input {
+    font-family: "Comic Sans MS", cursive, sans-serif; 
+    letter-spacing: 2px;
+  }
+
+  p {
+      font-style: italic, bold;
+  }
+
+  a:hover {
+      text-decoration: underline, navy; 
+  }
+
+  button {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+
+  div {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px 150px;
+    width: 600px;
+    margin: auto;
+  }
+
+  span {
+    font-variant: small-caps;
+    color: blue;
+    font-weight: 800;
+    font-size: 24px;
+  }
